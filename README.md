@@ -87,10 +87,12 @@ cd fpga-street-fighter-2
 
 | Action      | Player 1 | Player 2 |
 |-------------|----------|----------|
-| Move Left   | ←        | ←        |
-| Move Right  | →        | →        |
-| Punch       | Button A | Button A |
-| Kick        | Button B | Button B |
+| Move Left   | a        | ←        |
+| Move Right  | d        | →        |
+| Jump        | w        | ←        |
+| Crouch      | s        | →        |
+| Punch       | f        | <        |
+| Kick        | Space    | >        |
 
 ---
 
